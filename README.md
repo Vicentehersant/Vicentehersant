@@ -1,3 +1,5 @@
+![Vicente Hernaiz — Product designer, UX engineer & agentic AI systems](banner.png)
+
 ### Hi, I'm Vicente 👋
 
 **Product/UX designer who builds what he designs, with AI agents.**
