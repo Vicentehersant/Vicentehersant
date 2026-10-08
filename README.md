@@ -20,6 +20,7 @@ I design products end to end (research, IA, UI, design systems) and ship them in
 | [ux-agents-starter](https://github.com/Vicentehersant/ux-agents-starter) | Multi-agent system for UX designers on Claude Code. Install in 2 minutes |
 | [vhs-agents-and-skills](https://github.com/Vicentehersant/vhs-agents-and-skills) | 16 subagents + 8 skills from my agent OS: design systems, a11y, research, SEO/GEO, CRO |
 | [design-system-os](https://github.com/Vicentehersant/design-system-os) | My method for agent-ready design systems: tokens, design.md, specs, quality gates |
+| [portfolio-ai](https://github.com/Vicentehersant/portfolio-ai) | The AI assistant from my portfolio as an installable template: JSON knowledge base + Claude endpoint + chat widget |
 | [monkey-menubar](https://github.com/Vicentehersant/monkey-menubar) | A pixel monkey in the macOS menu bar that tells you what your Claude Code sessions are doing |
 | [loud-ideas-calm-grid](https://github.com/Vicentehersant/loud-ideas-calm-grid) | How I present: a Pinterest redesign direction as a live Next.js + GSAP deck ([live](https://loud-ideas-calm-grid.vercel.app)) |
 | [UX-UI-resources](https://github.com/Vicentehersant/UX-UI-resources) | Curated tools for designers who ship code |
