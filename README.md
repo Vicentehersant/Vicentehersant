@@ -9,12 +9,10 @@ I design products end to end (research, IA, UI, design systems) and ship them in
 
 ---
 
-#### Live client work (designed and built with my agents)
-| Site | What I did |
-|---|---|
-| [Centre Point Global](https://www.centrepointglobal.es/) | School-travel platform for a Madrid agency: 4 user portals, quote-and-CRM flow, payments. 500+ weekly visitors and $50k+ in trips closed in its first month |
-| [Armstrong Educational Services](https://www.armstrongeducationalservices.com/) | SEO and lead-capture site for an education company: training catalog, budget calculator, CRM, WCAG 2.2 AA |
-| [AMG Fisio](https://www.amgfisio.com/) | Brand identity and local-SEO website for a physiotherapy clinic |
+#### Live client work
+- [centrepointglobal.es](https://www.centrepointglobal.es/)
+- [armstrongeducationalservices.com](https://www.armstrongeducationalservices.com/)
+- [amgfisio.com](https://www.amgfisio.com/)
 
 #### What I've open-sourced
 | Repo | What it is |
